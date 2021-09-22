@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **dlouimakck@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TxgMku-ehxwuTHtDxp0Dt-menO8ePx-BptGK7jirtnQ/edit?usp=sharing](https://docs.google.com/document/d/1TxgMku-ehxwuTHtDxp0Dt-menO8ePx-BptGK7jirtnQ/edit?usp=sharing)
-
 - ⚡ Fun fact **Play soccer**
 
 <h3 align="left">Connect with me:</h3>
