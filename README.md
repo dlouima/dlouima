@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dieubon Louima</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
-- 🔭 I’m currently working on **Security +**
+- 🔭 I’m currently working on ** developing web application with React +**
 
 - 🌱 I’m currently learning **Cloud Security**
 
 - 👯 I’m looking to collaborate on **Threat hunting**
 
-- 🤝 I’m looking for help with **Malware Analysis**
+- 🤝 I’m looking for help with **Python dev**
 
 - 💬 Ask me about **Cybersecurity**
 
