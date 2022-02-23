@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Web Development**
-
 - 🤝 I’m looking for help with **DevOps**
 
 - 📫 How to reach me **dlouimakck@gmail.com**
