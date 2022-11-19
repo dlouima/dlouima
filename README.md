@@ -20,10 +20,8 @@
 - [😊 Introduction ](#intro)
 - [🤔 What am I doing nowadays?](#present_status)
 - [🛠 Skills](#skills)
-- [💼 Projects  and Contributions to Open Source](#projects)
 - [🎯 Achievements](#achievements)
 - [📈 GitHub Stats ](#github_stats)
-- [😇 What people say about me?](#testimonials)
 - [🔍 Find me Online](#social)
 
 
